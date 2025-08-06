@@ -1,11 +1,10 @@
 ### Hi there 👋
 # My name is Mervyn Bee Zheng Cheng. Nice to Meet You!!
+I am a dedicated Network and Computer Security student with a strong interest in network infrastructure and cybersecurity.
 ## Skills 
-C++ <br>
-Java <br>
-JavaScript <br>
-HTML <br>
-CSS <br>
+C++    Java <br>
+JavScript  HTML <br>
+CSS  MySQL <br>
 <!--
 **MERVYN3567/MERVYN3567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
