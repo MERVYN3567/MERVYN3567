@@ -2,6 +2,10 @@
 # My name is Mervyn Bee Zheng Cheng. Nice to Meet You!!
 ## Skills 
 C++
+Java
+JavaScript
+HTML
+CSS
 <!--
 **MERVYN3567/MERVYN3567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
