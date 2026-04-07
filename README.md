@@ -7,9 +7,9 @@ I am a **Network and Computer Security** student with a passion for building sec
 - **The Digital Detective:** An educational web-based game designed to teach cryptography concepts (Caesar ciphers, hashing, etc.).
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** C++, Java, JavaScript (React), HTML, CSS, SQL
+- **Languages:** Python, C++, Java, JavaScript (React), HTML, CSS, SQL
 - **Networking:** OSPFv2, IPsec VPN, Cisco Packet Tracer, ZTNA
-- **Security:** RSA Cryptography, Modular Arithmetic, Network Defense
+- **Security:** RSA Cryptography, Network Defense
 
 ### 🌱 Learning & Interests
 - 🛡️ Deepening my knowledge in **Network Architecture** and **Cybersecurity protocols**.
@@ -18,11 +18,9 @@ I am a **Network and Computer Security** student with a passion for building sec
 ### 💬 Ask Me About
 - Network routing and security configurations.
 - Web-based educational tools for tech.
-- Why I moved from Kyoto to Tokyo!
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [Insert Link]
-- **Email:** [Insert Email]
+- **Email:** mervyn15319@gmail.com
 
 ---
 
